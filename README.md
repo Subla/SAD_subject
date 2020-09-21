@@ -1,2 +1,2 @@
 # SAD_subject
-Repository for store the code of the subject
+Repository to store the code of the subject
